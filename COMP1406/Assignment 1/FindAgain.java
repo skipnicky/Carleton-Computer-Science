@@ -1,5 +1,3 @@
-package comp1406a1;
-//import java.util.Arrays;
 /** Assignment 1 - Winter 2019
   * <p>
   * Problem 1
@@ -61,7 +59,6 @@ public class FindAgain{
         }
       }
     }
-    //System.out.println(Arrays.toString(finalArray));
     return finalArray;
 }
 
@@ -69,6 +66,5 @@ public class FindAgain{
     int[] seq = {1,0,1,1};
     int[] arr = {9,4,1,0,1,0,3,5,6,1,0,1,1,0,1,1,2,3};
     int[] output = locateAllSequenceLocations(seq,arr);
-    //System.out.println(Arrays.toString(output));
   }
 }
