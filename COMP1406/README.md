@@ -6,7 +6,7 @@ and debugging. [See here.](https://calendar.carleton.ca/undergrad/courses/COMP/)
 # Details 
 * Professor: [Jason Hinek](https://carleton.ca/scs/people/m-jason-hinek/)
 * Term Taken: Winter 2019
-* Programming Language: [Java]()
+* Programming Language: [Java](https://www.java.com/ES/download/)
 
 
 
