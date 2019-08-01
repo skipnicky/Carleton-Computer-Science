@@ -1,3 +1,5 @@
+package comp1406a1; 
+
 /** Assignment 1 - Winter 2019
   * <p>
   * Problem 1
